@@ -279,5 +279,5 @@ _FixedDiv2:
 	popl %ebp
 	ret
 
-#endif 
+#endif
 
